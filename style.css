@@ -19,16 +19,16 @@
 
   @font-face {
     font-family: 'BestTenCRT';
-    src: url('https://luxgram.github.io/Tetris/BestTen-CRT.otf') format('opentype');
+    src: url('https://elgraam.github.io/Tetris/BestTen-CRT.otf') format('opentype');
 }
 
 @font-face {
     font-family: 'BestTenDOT';
-    src: url('https://luxgram.github.io/Tetris/BestTen-DOT.otf') format('opentype');
+    src: url('https://elgraam.github.io/Tetris/BestTen-DOT.otf') format('opentype');
 }
 body {
     font-family: 'BestTenCRT', sans-serif;
-    background-image: url('https://luxgram.github.io/Tetris/background.webp');
+    background-image: url('https://elgraam.github.io/Tetris/background.webp');
     background-repeat: repeat;
 }
 
